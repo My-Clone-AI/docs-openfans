@@ -11,8 +11,8 @@
   alterações sensíveis ficam bloqueadas 72 horas.
 - **Segurança:** em "Segurança" pode juntar chaves de acesso, ativar uma app autenticadora (código de 6
   dígitos), gerar novos códigos e terminar sessões noutros dispositivos.
-- **18+:** confirmar a idade não dá acesso a conteúdo adulto. Para isso será preciso verificar a identidade
-  (documento e prova de vida), que ainda não está disponível.
+- **18+:** confirmar a idade não dá acesso a conteúdo adulto. Para isso é preciso verificar a identidade
+  (documento e prova de vida) — ver `verificacao.md`. Ainda não está disponível.
 
 **EN.**
 - **Create account:** confirm you are 18 or older, accept the terms and create a **passkey** (Face ID,
@@ -24,7 +24,7 @@
   held for 72 hours.
 - **Security:** in "Security" you can add passkeys, turn on an authenticator app (6-digit code), make new
   codes and sign out other devices.
-- **18+:** confirming your age does not unlock adult content. That will need an ID and liveness check,
-  which is not available yet.
+- **18+:** confirming your age does not unlock adult content. That needs an ID and liveness check — see
+  `verificacao.md`. It is not available yet.
 
 Contactos / contact: página "Fale connosco" (`/contacto`) na app.
