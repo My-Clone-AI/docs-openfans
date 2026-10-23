@@ -19,3 +19,17 @@
 - If you appear in content you did not allow and you have a withdrawal code, use `/retirar`.
 
 Contactos / contact: página "Fale connosco" (`/contacto`) na app.
+
+**PT-PT (M8).**
+- Pode denunciar **qualquer link**, também de fora da openfans. Diga se é a pessoa que aparece, o titular dos
+  direitos ou outro utilizador. Sem conta, pode deixar um email para a resposta: fica cifrado e nunca é mostrado
+  a quem é denunciado.
+- Com o código vê a decisão e, se não concordar, pode **recorrer** sem custos durante 6 meses. Decide outra
+  pessoa da equipa.
+
+**EN (M8).**
+- You can report **any link**, also from outside openfans. Say whether you are the person shown, the rights
+  holder or another user. Without an account you can leave an email for the answer: it is stored encrypted and
+  never shown to the person reported.
+- With the code you see the decision and, if you disagree, you can **appeal** for free for 6 months. Another
+  person on our team decides.
