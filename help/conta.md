@@ -13,6 +13,9 @@
   email (isso confirma o endereço) e crie uma chave de acesso em "Segurança".
 - **Recuperar acesso:** use um código de recuperação. Por segurança, as outras sessões terminam e as
   alterações sensíveis ficam bloqueadas 72 horas.
+- **Alertas:** o sino no topo abre "Alertas": mudanças de segurança, resultado da verificação, revisões de
+  publicações, consentimento retirado, renovações, subscrições terminadas e respostas a reembolsos. Cada um
+  leva ao sítio onde tratar.
 - **Segurança:** em "Segurança" pode juntar chaves de acesso, ativar uma app autenticadora (código de 6
   dígitos), gerar novos códigos e terminar sessões noutros dispositivos.
 - **18+:** confirmar a idade não dá acesso a conteúdo adulto. Para isso é preciso verificar a identidade
@@ -29,6 +32,8 @@
   your address) and create a passkey in "Security".
 - **Recover access:** use a recovery code. For safety, your other sessions end and sensitive changes are
   held for 72 hours.
+- **Alerts:** the bell at the top opens "Alerts": security changes, ID check results, post reviews,
+  withdrawn consent, renewals, memberships ended and refund answers. Each links to where you act on it.
 - **Security:** in "Security" you can add passkeys, turn on an authenticator app (6-digit code), make new
   codes and sign out other devices.
 - **18+:** confirming your age does not unlock adult content. That needs an ID and liveness check — see
