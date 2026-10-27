@@ -11,3 +11,5 @@ Nothing here contains credentials, private infrastructure details or personal da
 Contact: see the "Fale connosco" page in the app (`/contacto`).
 
 - [Copyright draft](copyright-intake.md)
+
+- [Organizar o cofre · Organize the vault](help/smart-vault-filing.md)
