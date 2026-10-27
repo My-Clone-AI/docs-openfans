@@ -26,7 +26,7 @@ Captured: 2026-10-01
 Participant: Stage alias | performer
 ```
 
-A date without a time stays incomplete. Planned dates stay planned. Choose the correct known person if an alias is shared. Sheets can be reopened for seven days. Remove a sheet to erase its notes.
+A date without a time stays incomplete. Planned dates stay planned. Choose the correct known person if an alias is shared. Sheets can be reopened for seven days. Remove a sheet to erase its notes, subject to existing legal preservation rules.
 
 Voice uses supported on-device dictation. If unavailable or denied, type or use the keyboard's dictation key. Photo and document capture are currently unavailable; use redacted notes. Never submit identity documents, signatures or private personal details.
 
