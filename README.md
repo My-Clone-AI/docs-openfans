@@ -9,3 +9,5 @@ Public documentation for **openfans** (openfans.fun), the 18+ creator platform o
 
 Nothing here contains credentials, private infrastructure details or personal data.
 Contact: see the "Fale connosco" page in the app (`/contacto`).
+
+- [Copyright draft](copyright-intake.md)
