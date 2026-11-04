@@ -2,7 +2,7 @@
 
 **PT-PT.**
 - Só fãs com a verificação de identidade em dia veem conteúdo. Os links das imagens e vídeos são
-  privados e expiram em poucos minutos; sem autorização o armazenamento recusa-os.
+  privados; sem autorização, o acesso é recusado. O vídeo confirma o acesso durante a reprodução e renova-o enquanto continuar válido.
 - Cada fã recebe a sua **própria cópia das fotos com uma marca** (um código que não diz quem é). Nos
   vídeos, a marca aparece por cima e muda de lugar.
 - Não há botão para descarregar.
@@ -13,8 +13,7 @@
 - Se encontrar uma cópia partilhada sem autorização, use **Denunciar**.
 
 **EN.**
-- Only fans with a current ID check see content. Image and video links are private and expire within
-  minutes; without authorisation the storage refuses them.
+- Only fans with a current ID check see content. Image and video links are private; access is refused without authorisation. Video access is checked during playback and renewed while it remains valid.
 - Each fan gets their **own copy of photos with a mark** (a code that does not say who they are). On
   videos the mark is shown on top and moves around.
 - There is no download button.
@@ -24,3 +23,5 @@
 - If you find a copy shared without permission, use **Report**.
 
 Contactos / contact: página "Fale connosco" (`/contacto`) na app.
+
+Vídeo automático: [guia](video-auto.md). A funcionalidade 17 aguarda integração; não foi publicada nesta execução.
